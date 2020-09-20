@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_958d97332f36a98c269c91b1842c078435a96c7f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_29a655f02a84bbc2f6a66880a5eaad70d246a136.jar" />
+    </item>
+    <item
+        jar="C:\Users\Foram Shah\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_e9847261f60cc48c3728c959afd14fe352138da3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_1438c5c1c0477c0ca36d3f9e37f9a1c28bfca092.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_db4d90b7415cc68ab866a9ec740c7e150b5718bb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\AndroidProjects\detecting-incoming-phone-calls-in-android-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_e8cb6101c97a814b93a88088c0545073c2d9de15.jar" />
+    </item>
+
+</items>

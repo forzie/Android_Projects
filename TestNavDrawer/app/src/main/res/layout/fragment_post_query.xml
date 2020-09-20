@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    tools:context="com.example.kaivanshah.testnavdrawer.PostQueryFragment">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:hint="@string/tt10"
+            android:background="@drawable/shape"
+            android:textColor="@android:color/black"
+            android:padding="10dp"
+            android:gravity="center_horizontal"
+            android:inputType="textPersonName"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:textColor="@android:color/black"
+            android:hint="@string/tt20"
+            android:background="@drawable/shape"
+            android:padding="10dp"
+            android:gravity="center_horizontal"
+            android:inputType="textEmailAddress"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:ems="10"
+            android:background="@drawable/shape"
+            android:textColor="@android:color/black"
+            android:padding="10dp"
+            android:gravity="center_horizontal"
+            android:hint="@string/tt30"
+            android:inputType="textMultiLine"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/postBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape"
+            android:padding="10dp"
+            android:gravity="center_horizontal"
+            android:textSize="28sp"
+            android:text="@string/tt11" />
+
+</LinearLayout>

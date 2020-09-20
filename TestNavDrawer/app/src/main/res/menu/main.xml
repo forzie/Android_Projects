@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/changePass"
+        android:title="Change Password" />
+    <item
+        android:id="@+id/contactus"
+        android:title="@string/tt05" />
+
+    <item android:title="@string/tt04"
+        android:id="@+id/aboutus" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item android:title="@string/tt03"
+        android:id="@+id/logout"
+        android:orderInCategory="101" />
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/Lowercase1"
+    android:title="LOWERCASE"
+    ></item>
+    <item
+        android:id="@+id/Upercase1"
+        android:title="UperCASE"
+        ></item>
+    <item
+        android:id="@+id/TrimOfString"
+        android:title="Trim OF string"
+        ></item>
+
+</menu>

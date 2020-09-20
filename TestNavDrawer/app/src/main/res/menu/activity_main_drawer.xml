@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/category"
+            android:title="@string/tt25" />
+        <item
+            android:id="@+id/category"
+            android:icon="@drawable/category"
+            android:title="@string/tt06" />
+        <item
+            android:id="@+id/tips"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/tt07" />
+        <item
+            android:id="@+id/doctor"
+            android:icon="@drawable/doctor"
+            android:title="@string/tt08" />
+        <item android:title="@string/tt12"
+            android:id="@+id/profile"
+            android:icon="@drawable/profile" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/action_settings" />
+        <item android:title="@string/tt14"
+            android:id="@+id/postQuery"
+            android:icon="@drawable/postquery" />
+
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Share" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

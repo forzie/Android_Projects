@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Personal"
+        android:id="@+id/Personal"
+        android:orderInCategory="100" />
+    <item
+        android:title="Acedemic"
+        android:id="@+id/Acedemic"
+        android:orderInCategory="101"/>
+
+    <item
+        android:title="Other Items"
+        android:id="@+id/OtherItems"
+        android:orderInCategory="102" />
+    <item
+        android:title="ADD"
+        android:id="@+id/ADD"
+        android:orderInCategory="103" />
+    <item
+        android:id="@+id/Cpy"
+        android:orderInCategory="105"
+        android:title="Copy" />
+    <item
+        android:orderInCategory="104"
+        android:title="Item" />
+    <item
+        android:title="SUB"
+        android:id="@+id/SUB"
+        android:orderInCategory="106" />
+
+</menu>
